@@ -99,7 +99,26 @@ TETAP TIDAK MENINGGALKAN HAL INI CUMA LEBIH FOKUS KE HAL LAINNYA SAJA YANG LEBIH
 	^ 23.00 - 6.00 = tidur selama 7 jam
 
 
-- WEEKEND ( SABTU) : 
+
+- WEEKEND ( SABTU) *MINGGU PERTAMA ATAU KEDUA SEBAGAI ADAPTASI KOST : 
+
+	^ 6.00 - 10.00 = Mandi sebelum masak, Belanja, Masak, Makan, Persiapin plan hari ini mau ngapain aja secara mendetail dari pagi sampai malem ( terutama untuk promosi bisnis D&D + Mulai ke tempat orang-orang yang order jasa ) 
+	^ 10.00 - 18.00 = Kerjain Game DND full sama dika entah di tempat kopi atau di tempat kost, bebas
+	^ 18.00 - 19.00 = Mandi, , Bikin Kopi, Makan diluar karena pasti bakalan capek udah berkegiatan atau masak makanan simple saja, sisanya pake waktu buat santai
+	^ 19.00 - 23.00 = Fokus evaluasi kegiatan hari ini secara keseluruhan apa saja yang kurang dan harus diperbaiki kedepannya, setelah selesai maka kamu bisa Lanjutin fokus kerjain tugas GROWCLIE AGENCY ATAU TUGAS DI APP TODOIST Sembari menunggu dika selesai istirahat dan beres beres semuanya ( buat kopi sebelum kerja supaya semangat kerjanya dan ga lemes ) **TAMBAHAN TUGAS SANGAT PENTING : Persiapin tugas dan kegiatan mendetail esok hari dari pagi sampai malem supaya besok enak tinggal jalanin aja
+	^ 23.00 - 6.00 = tidur selama 7 jam
+
+
+- WEEKEND ( MINGGU ) *MINGGU PERTAMA ATAU KEDUA SEBAGAI ADAPTASI KOST : 
+
+	^ 6.00 - 10.00 = Mandi sebelum masak, Belanja, Masak, Makan, Evaluasi + Create plan mendetail untuk 1 minggu kedepan mau ngapain, Persiapin plan hari ini mau ngapain aja secara mendetail dari pagi sampai malem ( terutama untuk promosi bisnis D&D + Mulai ke tempat orang-orang yang order jasa ) 
+	^ 10.00 - 18.00 =  Kerjain Game DND full sama dika entah di tempat kopi atau di tempat kost, bebas
+	^ 18.00 - 19.00 = Mandi, , Bikin Kopi, Makan diluar karena pasti bakalan capek udah berkegiatan atau masak makanan simple saja, sisanya pake waktu buat santai
+	^ 19.00 - 23.00 = Fokus evaluasi kegiatan hari ini secara keseluruhan apa saja yang kurang dan harus diperbaiki kedepannya, setelah selesai maka kamu bisa Lanjutin fokus kerjain tugas GROWCLIE AGENCY ATAU TUGAS DI APP TODOIST Sembari menunggu dika selesai istirahat dan beres beres semuanya ( buat kopi sebelum kerja supaya semangat kerjanya dan ga lemes ) **TAMBAHAN TUGAS SANGAT PENTING : Persiapin tugas dan kegiatan mendetail esok hari dari pagi sampai malem supaya besok enak tinggal jalanin aja
+	^ 23.00 - 6.00 = tidur selama 7 jam
+
+
+- WEEKEND ( SABTU) *MINGGU KEDUA/KETIGA DAN SETERUSNYA ( TERGANTUNG DIKA SELESAI PLAYLIST GAMEPLAY RADITYA DIKANYA KAPAN TENTANG MAIN DND 7 EPISODE ) : 
 
 	^ 6.00 - 10.00 = Mandi sebelum masak, Belanja, Masak, Makan, Persiapin plan hari ini mau ngapain aja secara mendetail dari pagi sampai malem ( terutama untuk promosi bisnis D&D + Mulai ke tempat orang-orang yang order jasa ) 
 	^ 10.00 - 18.00 = Kerja lapangan dengan promosi bisnis D&D IRL + Layani Jasa ke tempat-tempat yang order dari siang sampai malam magrib
@@ -108,13 +127,14 @@ TETAP TIDAK MENINGGALKAN HAL INI CUMA LEBIH FOKUS KE HAL LAINNYA SAJA YANG LEBIH
 	^ 23.00 - 6.00 = tidur selama 7 jam
 
 
-- WEEKEND ( MINGGU ) : 
+- WEEKEND ( MINGGU ) *MINGGU KEDUA/KETIGA DAN SETERUSNYA ( TERGANTUNG DIKA SELESAI PLAYLIST GAMEPLAY RADITYA DIKANYA KAPAN TENTANG MAIN DND 7 EPISODE ) : 
 
 	^ 6.00 - 10.00 = Mandi sebelum masak, Belanja, Masak, Makan, Evaluasi + Create plan mendetail untuk 1 minggu kedepan mau ngapain, Persiapin plan hari ini mau ngapain aja secara mendetail dari pagi sampai malem ( terutama untuk promosi bisnis D&D + Mulai ke tempat orang-orang yang order jasa ) 
 	^ 10.00 - 18.00 = Kerja lapangan dengan promosi bisnis D&D IRL + Layani Jasa ke tempat-tempat yang order dari siang sampai malam magrib
 	^ 18.00 - 19.00 = Mandi, , Bikin Kopi, Makan diluar karena pasti bakalan capek udah berkegiatan atau masak makanan simple saja, sisanya pake waktu buat santai
 	^ 19.00 - 23.00 = Fokus evaluasi kegiatan hari ini secara keseluruhan apa saja yang kurang dan harus diperbaiki kedepannya, setelah selesai maka kamu bisa Lanjutin fokus kerjain tugas GROWCLIE AGENCY ATAU TUGAS DI APP TODOIST Sembari menunggu dika selesai istirahat dan beres beres semuanya ( buat kopi sebelum kerja supaya semangat kerjanya dan ga lemes ) **TAMBAHAN TUGAS SANGAT PENTING : Persiapin tugas dan kegiatan mendetail esok hari dari pagi sampai malem supaya besok enak tinggal jalanin aja
 	^ 23.00 - 6.00 = tidur selama 7 jam
+
 
 
 
